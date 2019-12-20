@@ -1,5 +1,6 @@
 from sys import argv
 
+# filename for decrypt or encrypt
 fn = argv[1]
 
 def rot13(filename):
